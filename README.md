@@ -69,13 +69,7 @@ pip install -r requirements.txt
 python run_<selection_strategy_name>.py --data_dir=./input  --output_dir=./output --bert_model_scale="bert-base-multilingual-cased" --batch_size=8 --learning_rate=5e-5 --max_seq_length=180
 ```
 
-# Reported scores
-
- A comparison between F1 scores (in percentage) of different selection strategies in active learning.
-
-![image](scores.png)
-
-
+# A comparison between different selection strategies
 
 BERT-PersNER performance on Arman (left) and Peyma (right), using different selection strategies.
 
