@@ -5,16 +5,17 @@ This repository contains the code for [BERT-PersNER: a New Model for Persian Nam
 # Citation
 
 ```
-@inproceedings{farahani-etal-2021-bert-persner,
-    title = "BERT-PersNER: a New Model for Persian Named Entity Recognition",
+@inproceedings{jalali-farahani-ghassem-sani-2021-bert,
+    title = "{BERT}-{P}ers{NER}: A New Model for {P}ersian Named Entity Recognition",
     author = "Jalali Farahani, Farane  and
-      Ghassem-Sani, ‪Gholamreza",
-    booktitle = "Proceedings of Recent Advances in Natural Language Processing (RANLP 2021)",
-    month = "1-3 September",
+      Ghassem-Sani, Gholamreza",
+    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)",
+    month = sep,
     year = "2021",
-    address = "Varna, Bulgaria (Online)",
-    publisher = "Association for Computational Linguistics",
-    pages = "647-654",
+    address = "Held Online",
+    publisher = "INCOMA Ltd.",
+    url = "https://aclanthology.org/2021.ranlp-main.73",
+    pages = "647--654"
 }
 ```
 
